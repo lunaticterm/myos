@@ -1,2 +1,2 @@
 # os
-Workflow inspired by vi
+Workflow inspired by vi and dracula theme
